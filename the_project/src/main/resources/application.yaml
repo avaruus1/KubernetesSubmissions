@@ -1,7 +1,0 @@
-ktor:
-  deployment:
-    port: 8080
-  application:
-    modules:
-      - io._0551.theproject.HtmlDslKt.configureHtmlDsl
-      - io._0551.theproject.RoutingKt.configureRouting
